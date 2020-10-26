@@ -1,18 +1,19 @@
 picture_path: shri-ram-hanuman
 preview:
   filename: 
-  original: 1.jpg
+  original: 
   sizes:
+  - 1c.jpg
   thumbnail: 1.jpg
 pictures:
 - filename: 
-  original: 2.jpg
+  original: 
   sizes:
-  - 2.jpg
+  - 2c.jpg
   thumbnail: 2.jpg
 pictures:
 - filename: 
-  original: 1.jpg
+  original: 
   sizes:
-  - 1.jpg
+  - 1c.jpg
   thumbnail: 1.jpg
