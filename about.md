@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This website is a repository of divine pictures that make me love Prabhu more, create a infusion of emotion in my heart and my mind and take me more closer to the infinite bliss, that is Shri Krishna.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I am Vikas Srivastava. I maintain this website by the grace of Prabhu. I don't claim the copyright of the images. This website is for non-commercial use.
