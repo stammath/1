@@ -9,3 +9,8 @@ pictures:
   original: 2.jpg
   sizes:
   thumbnail: 2.jpg
+pictures:
+- filename: 
+  original: 1.jpg
+  sizes:
+  thumbnail: 1.jpg
