@@ -3,9 +3,9 @@ preview:
   filename: 
   original: 1.jpg
   sizes:
-  thumbnail: 
+  thumbnail: 1.jpg
 pictures:
 - filename: 
   original: 2.jpg
   sizes:
-  thumbnail: 
+  thumbnail: 2.jpg
