@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Smiling Prabhu everytime aarti light fall on his face"
+title:  "Nothing is beautiful than watching the smile of God"
 date:   2016-02-17 08:51:07 +0100
 driveId: 1rd6uPouSPhh2wZGcO_sFr754YwHqDEVr/preview
 categories: jekyll update
