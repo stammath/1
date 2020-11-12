@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2016-02-17 08:51:07 +0100
-driveId: 1rd6uPouSPhh2wZGcO_sFr754YwHqDEVr
+driveId: 1rd6uPouSPhh2wZGcO_sFr754YwHqDEVr/preview
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
@@ -11,7 +11,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 {% include googleDrivePlayer.html id=page.driveId %}
 
 Jekyll also offers powerful support for code snippets:
-
+ggg
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
